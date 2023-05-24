@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>vadriftsx beta</title>
+</head>
+<body>
+
+<h1>in the middle of being build</h1>
+<p>wait this may take a week or two.</p>
+
+</body>
+</html>
